@@ -117,7 +117,9 @@ git clone https://github.com/your-username/facial-emotion-recognition-cnn.git
 cd facial-emotion-recognition-cnn
 ```
 2.Install required libraries
+```
 pip install tensorflow opencv-python numpy pandas pillow
+```
 
 3.Run the application
 
